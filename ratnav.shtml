@@ -1,0 +1,16 @@
+<link href="crg.css" rel="stylesheet" type="text/css">
+<div id="nav2" style="display:none; overflow:auto; height:145px; padding-right:4px;">
+<ul class="nav">
+<li><a href="http://www.tri-c.edu/rat/" target="_blank">About Us&nbsp;/&nbsp;Info</a></li>
+<li><a href="http://www.tri-c.edu/rat/docs/future.htm" target="_blank">The Future</a></li>
+<li><a href="http://www.tri-c.edu/rat/docs/applying.htm" target="_blank">How to apply</a></li>
+<li><a href="http://www.tri-c.edu/rat/docs/press%20releases/archives/default.htm" target="_blank">Courses &amp; Degrees</a></li>
+<li><a href="http://www.tri-c.edu/rat/docs/Courses.htm" target="_blank">News Archives</a></li><br>
+<li><a href="http://www.tri-c.edu/rat/docs/contactus.htm" target="_blank">Contact Us</a></li>
+<!--li><a href="#">Why Choose RAT</a></li-->
+<!--li><a href="#">Faculty</a></li-->
+<!--li><a href="#">Student Testimonials</a></li-->
+<!--li><a href="#">Career Opportunities</a></li-->
+<!--li><a href="#">Facilities/ Equipment</a></li-->
+</ul>
+</div>

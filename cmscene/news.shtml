@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Cleveland Music Scene: About</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script language="JavaScript" type="text/javascript" src="../motionpack.js"></script>
+<script language="JavaScript" type="text/javascript" src="../player/ufo.js"></script>
+<link href="../crg.css" rel="stylesheet" type="text/css"></head>
+<body>
+<div id="main">
+<div id="content" class="home">
+<div id="hdr"></div> 
+<div id="col3">
+<h1>The Cleveland Music Scene</h1>
+<p>This is where you'll find everything you ever wanted to know about the Cleveland Music scene...and some of the stuff you didn't.</p>
+<h3>What's happening in music around town.</h3>
+<p>Check out the calendars, forums and venues listed here.</p>
+</div>
+</div>
+<div id="right">
+<!-- Start of navigation -->
+<a onClick="javascript:nav('nav1');"><div id="crgbtn"></div></a>
+<div>
+<!--#include virtual="../crgnav.shtml"-->
+</div>
+<a onClick="javascript:nav('nav2');"><div id="ratbtn"></div></a>
+<div>
+<!--#include virtual="../ratnav.shtml"-->
+</div>
+<a onClick="javascript:nav('nav3');"><div id="combtn"></div></a>
+<div>
+<!--#include virtual="../cmsnav.shtml"-->
+</div>
+<a href="../index.shtml"><div id="hombtn"></div></a>
+<!-- End of navigation -->
+</div>
+<div id="footer">
+Cleveland Music Scene | <a href="/crg/index.shtml">Crooked River Groove</a> | <a href="http://www.tri-c.edu/rat/default.htm" target="_blank">Recording Arts &amp; Technology</a> | <a href="../index.shtml">Home</a> | <a href="http://www.tri-c.edu" target="_blank">Tri-C</a> | <a href="../../cmscene/index.shtml" target="_blank">MySpace<br>
+</a>&copy; 2007 <a href="../webbies/index.shtml">The Webbies</a>
+<br> This site is best viewed at 1024x768 with Mozilla Firefox.</div>
+</div></body>
+</html>

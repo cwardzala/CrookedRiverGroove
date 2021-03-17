@@ -1,0 +1,66 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Crooked River Groove</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script language="JavaScript" type="text/javascript" src="motionpack.js"></script>
+<script language="JavaScript" type="text/javascript" src="player/ufo.js"></script>
+<link href="crg.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="main">
+<div id="left" class="home">
+<div id="hdr"></div> 
+<div id="content">
+<div id="col1">
+<h2><img src="homepics/mixer.jpg" alt="" height="133" width="200" border="0"></h2>
+<h2>The Cleveland Music Scene</h2>
+<h3>What's happening in music around town.</h3>
+<p>Check out the calendars, forums and venues listed here.</p>
+</div>
+<div id="col2">
+<h2>Welcome to Crooked River Groove</h2>
+<p>Crooked River Groove (or CRG for short) is a college accredited record label. Located on Tri-C's Metro campus, the heart of the operation is it's talented staff &amp; faculty, a lavish, 3,000-square-foot studio, complete with a state-of-the-art editing room and beautiful recording suite. Did we mention the  polished wood floors and well tuned baby grand piano?</p>
+<p>Students from the R.A.T. program at Tri-C record and produce talented artists who might not be able to afford to record elsewhere in an environment that is not just about sales.</p>
+<p>Explore the site to find out more.</p>
+<h1><img src="homepics/band.jpg" alt="" height="133" width="200" border="0"><br>
+	Recording Arts &amp; Technology</h1>
+<h3>&ldquo;We make stuff that you listen to.&rdquo;</h3>
+<p>The Recording Arts &amp; Technology Program at <a href="http://www.tri-c.edu">Tri-C</a> is the only recording-arts associate-degree program in Ohio. Students (from recent high school graduates to thirtysomething rockers seeking formal training) are prepped for entry-level positions in the audio industry. Degree-seeking students receive broad-based training in music recording and mixing, location sound, commercial production, audio for video and television, record production and live sound reinforcement.</p>
+<p>Learn more about the <a href="http://www.tri-c.edu/rat">R.A.T. program at Tri-C</a>.</p>
+</div>
+</div>
+</div>
+
+<div id="right">
+<!-- Start of navigation -->
+<a onClick="javascript:nav('nav1');"><div id="crgbtn"></div></a>
+<div id="nav1">
+<!--#include virtual="crgnav.shtml" -->
+</div>
+<a onClick="javascript:nav('nav2');"><div id="ratbtn"></div></a>
+<div id="nav2" style="display:none; overflow:auto; height:125px; padding-right:4px;">
+<!--#include virtual="ratnav.shtml" -->
+</div>
+<a onClick="javascript:nav('nav3');"><div id="combtn"></div></a>
+<div id="nav3" style="display:none; overflow:auto; height:165px; padding-right: 4px;">
+<!--#include virtual="cmsnav.shtml" -->
+</div>
+<a href="index.shtml"><div id="hombtn"></div></a>
+<!-- End of navigation -->
+</div>
+<div id="player"  class="home">
+<script type="text/javascript">
+
+var FU = {movie:"player/player.swf",width:"300",height:"240",majorversion:"7",build:"0",bgcolor:"#FFFFFF",allowfullscreen:"true",
+flashvars:"file=player/playlist.xml&displayheight=150&lightcolor=0x557722&backcolor=0x000000&frontcolor=0xCCCCCC&fsreturnpage=player/flvplayer.html" };
+
+UFO.create(FU, "player");
+
+</script></div>
+<div id="footer">
+				<a href="cmscene/index.shtml">Cleveland Music Scene</a> | <a href="/crg/index.shtml">Crooked River Groove</a> | <a href="http://www.tri-c.edu/rat/default.htm" target="_blank">Recording Arts &amp; Technology</a> | <a href="index.shtml">Home</a> | <a href="http://www.tri-c.edu" target="_blank">Tri-C</a> | <a href="cmscene/index.shtml" target="_blank">MySpace<br>
+				</a>&copy; 2007 <a href="webbies/index.shtml">The Webbies</a>
+<br> This site is best viewed at 1024x768 with Mozilla Firefox.</div>
+</div></body>
+</html>

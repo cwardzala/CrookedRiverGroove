@@ -1,0 +1,12 @@
+<link href="crg.css" rel="stylesheet" type="text/css">
+<div id="nav3" style="display:none; overflow:auto; height:195px; padding-right: 4px;">
+<ul class="nav">
+<li><a href="../../cmscene/index.shtml">About Us&nbsp;/&nbsp;Info</a></li>
+<li><a href="../../cmscene/news.shtml">Community News</a></li>
+<li><a href="../../crg/crgevents.shtml">CRG Events</a></li>
+<li><a href="http://freecal.brownbearsw.com/crg" target="_blank">N.E. Ohio Music Events</a></li><br>
+<li><a href="../../cmscene/venues.shtml">Links to Venues</a></li>
+<li><a href="../../contact.shtml">Contact Us</a></li><br>
+<li><a href="../../phpBB2/index.php" target="_blank">Forum</a></li><br>
+</ul>
+</div>

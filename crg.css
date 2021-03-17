@@ -1,0 +1,30 @@
+body{font: 12px Arial, Helvetica, Geneva, sans-serif;background-image: url(images/bg.gif);}
+p {line-height:1.4;font-size: 11px;color: #aaa;}
+ul {line-height:1.4;color: #aaa;list-style: disc;font-size: 11px;}
+a {text-decoration: none;color: #eee;}
+a.visited { color: #999;}
+a.hover{color:#b21632;}
+h1 {font-size: 14px;color: #fff;font-variant: small-caps;}
+h2 {font-size: 1em;color: #aaa;}
+h3 {color: #b21632; font-size: 1em; font-style: italic;}
+img {border-width: 1px solid #000;}
+img.home {padding:0px;border-width: 1px solid #000;}
+ul.nav{line-height: 1.4;font-size: 12px;font-family: arial, verdana;list-style-type: none;text-align: right;}
+#main {position: relative; height: 1000px; width: 970px; margin: 10px auto auto; }
+#right {position: absolute;width: 240px;height: 1000px;background-color: #666666;top: 0;left: 730px; border-left: 1px solid #eee;}
+#content {position: absolute; width: 712px; padding-top: 0px; padding-right: 10px; padding-left: 10px; color: #929292; border-right-color: #eee; border-right-width: 2px; background: #000 url(images/pianobanner.jpg) no-repeat; height: 1000px;}
+#content.home {position: absolute; width: 712px; height: 1000px; padding-top: 0px; padding-right: 10px; padding-left: 10px; color: #929292; border-right-color: #eee; border-right-width: 2px; background: #000000  url(images/guitarbanner.jpg) no-repeat;}
+#hdr {background-image: url(images/logo.gif); background-repeat: no-repeat; background-position: top center; position:absolute; width: 732px; height: 78px; top: 0; left: 0;}
+#crgbtn{background-image: url(images/crg.gif);margin-top: 5px;width: 224px;height: 35px;right: 0;position: relative;left: 16px; cursor: pointer;}
+#ratbtn{background-image: url(images/rat.gif);margin-top: 5px;width: 224px;height: 35px;right: 0;left: 16px;position: relative; cursor: pointer;}
+#combtn{background-image: url(images/scene.gif);margin-top: 5px;width: 224px;height: 35px;right: 0;left: 16px;position: relative; cursor:pointer;}
+#hombtn{background-image: url(images/home.gif);margin-top: 5px;width: 224px;height: 35px;right: 0;left: 16px;position: relative; cursor: pointer;}
+#player.home { visibility: visible; height: 250px; width: 300px; left: 20px; top: 140px; position: absolute;  border-color: #666; border-width: 2px;}
+#player { width: 300px; height: 250px; margin: 0; top: 140px; left: 20px; position: absolute; border-color: #666; border-width: 2px;}
+#col1 {visibility: visible; position: absolute; top: 400px; left: 20px; width: 300px; overflow: all; height: auto;}
+#col2 {visibility: visible; height: auto; width: 370px; left: 340px; top: 140px; position: absolute; overflow: all;}
+#col3 {height: auto; width: 600px; left: 20px; top: 140px; position: absolute; visibility: visible; }
+#footer {background-color: #5c5c5c;position: absolute;width: 967px;height: 50px;text-align: center;color: #929292;font: 10px Arial, Helvetica, Geneva, sans-serif;margin: 7px auto 0px auto;padding: 2px; top: 1000px;}
+#footer li {display: inline;}
+#footer ul {padding: 0;margin: 0;color: #929292;font: 10px Arial, Helvetica, Geneva, sans-serif;}
+

@@ -1,0 +1,15 @@
+<link href="crg.css" rel="stylesheet" type="text/css">
+<div id="nav1" style="display:none; overflow:auto; height:210px; padding-right:4px;">
+<ul class="nav">
+<li><a href="../../crg/index.shtml">About Us&nbsp;/&nbsp;Info</a></li>
+<li><a href="../../crg/recorded.shtml">How to Get Recorded</a></li>
+<li><a href="../artists/index.shtml">Artists on the CRG Label</a></li>
+<li><a href="../../crg/releases.shtml">Recent Releases</a></li>
+<!--li><a href="#">Buy Stuff</a><br><br></li-->
+<li><a href="../../crg/crgevents.shtml">CRG Events</a></li>
+<li><a href="../../crg/news.shtml">CRG Label News</a></li>
+<li><a href="../../crg/press/index.shtml">Press</a><br><br></li>
+<li><a href="../../contact.shtml">Contact Us</a></li>
+<!--li><a href="#">Archive</a></li-->
+</ul>
+</div>
