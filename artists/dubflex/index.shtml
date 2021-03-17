@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>dubflex @ crooked river groove</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<script language="JavaScript" type="text/javascript" src="../../motionpack.js"></script>
+<link href="../../crg.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="../../player/ufo.js"></script>
+</head>
+<body>
+<div id="main">
+<div id="content">
+<div id="hdr"></div>
+<div id="col2"><!--#include virtual="bio.shtml" -->
+</div>
+</div>
+<div id="right">
+<!-- Start of navigation -->
+<a onClick="javascript:nav('nav1');"><div id="crgbtn"></div></a>
+<div>
+<!--#include virtual="../../crgnav.shtml"-->
+</div>
+<a onClick="javascript:nav('nav2');"><div id="ratbtn"></div></a>
+<div>
+<!--#include virtual="../../ratnav.shtml"-->
+</div>
+<a onClick="javascript:nav('nav3');"><div id="combtn"></div></a>
+<div>
+<!--#include virtual="../../cmsnav.shtml"-->
+</div>
+<a href="../index.html"><div id="hombtn"></div></a>
+<!-- End of navigation -->
+</div>
+<div id="player">
+<script type="text/javascript">
+
+var FU = {movie:"../../player/player.swf",width:"300",height:"240",majorversion:"7",build:"0",bgcolor:"#FFFFFF",allowfullscreen:"true",
+flashvars:"file=artist.xml&displayheight=150&lightcolor=0x557722&backcolor=0x000000&frontcolor=0xCCCCCC&fsreturnpage=../../player/flvplayer.html" };
+
+UFO.create(FU, "player");
+
+</script></div>
+<div id="footer">
+<ul>
+<li><a href="/cmscene/index.html">Cleveland Music Scene</a> |</li>
+<li><a href="../../crg/index.html">Crooked River Groove </a>|</li>
+<li><a href="http://www.tri-c.edu/rat/default.htm" target="_blank">Recording Arts &amp; Technology</a> |</li>
+<li><a href="../../index.html">Home</a> |</li>
+<li><a href="http://www.tri-c.edu" target="_blank">Tri-C</a> |</li>
+<li><a href="http://myspace.com/crookedrivergroove" target="_blank">MySpace</a></li>
+</ul>
+&copy; 2007<a href="../../webbies/index.html"> The Webbies</a><br>
+This site is best viewed at 1024x768 with Mozilla Firefox.</div>
+</div>
+</body>
+</html>
